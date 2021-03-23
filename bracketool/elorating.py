@@ -1,6 +1,10 @@
 import math
 
 class EloRating:
+    """EloRating has methods to compute ELO ratings after finished clashes.
+
+    See https://en.wikipedia.org/wiki/Elo_rating_system
+    """
     def __init__( self ):
         pass
 
